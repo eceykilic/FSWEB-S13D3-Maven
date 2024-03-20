@@ -26,6 +26,8 @@ public class Person {
         this.favoriSayi = favoriSayi;
     }
 
+    //
+
     public String getFirstName() {
         return firstName;
     }
